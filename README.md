@@ -1,4 +1,4 @@
-🍕 Pizza Sales Data Analysis using SQL Server
+# 🍕 Pizza Sales Data Analysis using SQL Server
 
 This project presents a complete analysis of a pizza sales dataset sourced from Kaggle. The raw CSV files were first imported into SQL Server using the Flat File Import Wizard, and then structured as relational tables. SQL queries were written to perform detailed data analysis on the imported data.
 
